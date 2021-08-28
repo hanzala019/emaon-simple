@@ -1,0 +1,24 @@
+.products {
+    display: flex;
+    margin: 5px;
+    border-bottom: 1px solid grey;
+    padding: 5px;
+    
+}
+
+.product-name {
+     
+   padding: 5px 5px 10px 40px;
+}
+
+.product-name h4 {
+    color: #3e3e1f;
+}
+
+.product-name button {
+
+    padding:8px;
+    background-color: rgb(1, 18, 37);
+    color: #fafafa;
+    font-size: 15px;
+}

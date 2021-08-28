@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.shop {
+    width: 70%;
+    text-align:left;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid grey;
+}
+
+.cart {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.cart button {
+    width:100%;
+    padding:8px;
+    background-color: rgb(234, 237, 240);
+    color: rgb(32, 32, 32);
+    font-size: 15px;
+}
